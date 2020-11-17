@@ -72,8 +72,8 @@ Material:
     - _SkyExponent: 2
     - _SrcBlend: 1
     - _SunDisk: 2
-    - _SunSize: 0.079
-    - _SunSizeConvergence: 3.18
+    - _SunSize: 0.058
+    - _SunSizeConvergence: 2.92
     - _SunStrength: 1
     - _UVSec: 0
     - _ZWrite: 1
