@@ -193,6 +193,10 @@ namespace UnityStandardAssets.Characters.FirstPerson
             return movementSettings.SlopeCurveModifier.Evaluate(angle);
         }
 
+        public void MouseReset()
+        {
+            mouseLook.Init(transform, cam.transform);
+        }
 
         private void StickToGroundHelper()
         {
