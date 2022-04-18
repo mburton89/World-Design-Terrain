@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BurtonMainMenu.unity
+    guid: 760b7ac9410d1594d8e610c5488e2079
+  - enabled: 1
+    path: Assets/Scenes/BurtonTerrain.unity
+    guid: b41ad1dca4299e040b2965c6eaa1ac61
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: ebf46a6851d6041648a3da5e7f042d62
   m_configObjects: {}
